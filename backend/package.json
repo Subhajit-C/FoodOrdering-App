@@ -7,7 +7,7 @@
   "scripts": {
     "server": "nodemon server.js"
   },
-  "author": "",
+  "author": "Subhajit Chakraborty",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.1",
